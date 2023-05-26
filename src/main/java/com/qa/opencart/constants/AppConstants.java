@@ -5,8 +5,11 @@ import java.util.List;
 
 public class AppConstants {
 
+	// token ID -->     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
+	// Repo --> https://github.com/SunilLearning/SeleniumPractice.git
+	
 	// this file is created mainly because of for some methods we have provided the hardcoded value
-	// we have restrict that one so we have creted the app constant class
+	// we have restrict that one so we have created the app constant class
 	
 	// for constants we have to use the final keyword this contants for page load time out 
 	public static final int DEFAULT_SHORT_TIMEOUT=5;
