@@ -5,7 +5,9 @@ import java.util.List;
 
 public class AppConstants {
 
-	// token ID -->     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
+	// Old token ID no need to use -->     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
+	
+	// new token id need to use : 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
 	// Repo --> https://github.com/SunilLearning/SeleniumPractice.git
 	
 	// this file is created mainly because of for some methods we have provided the hardcoded value
@@ -16,7 +18,7 @@ public class AppConstants {
 	public static final int DEFAULT_MEDIUM_TIMEOUT=10;
 	public static final int DEFAULT_LONG_TIMEOUT=15;
 	
-	// we have to create constants for some fixed feature like title
+	// we have to create constants for some fixed feature like titleg
 	// login page constants
 	public static final String DEFAULT_LOGIN_PAGE_TITLE="Account Login";
 	public static final String DEFALUT_LOGIN_PAGE_FRACTION_URL="route=account/login";
