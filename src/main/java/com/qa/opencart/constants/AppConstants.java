@@ -10,6 +10,8 @@ public class AppConstants {
 	// new token id need to use : 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
 	// Repo --> https://github.com/SunilLearning/SeleniumPractice.git
 	
+	//new token for payement : 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
+	
 	// this file is created mainly because of for some methods we have provided the hardcoded value
 	// we have restrict that one so we have created the app constant class
 	
