@@ -8,6 +8,8 @@ public class AppConstants {
 	// Old token ID no need to use -->     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
 	
 	// new token id need to use : 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
+	
+	// master token id : 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
 	// Repo --> https://github.com/SunilLearning/SeleniumPractice.git
 	
 	// this file is created mainly because of for some methods we have provided the hardcoded value

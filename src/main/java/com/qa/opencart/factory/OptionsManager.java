@@ -27,6 +27,8 @@ public class OptionsManager {
 	public ChromeOptions getChromeOptions()
 	{
 		co=new ChromeOptions();
+		// addded newly 
+		co.addArguments("remote-allow-origins=*");
 		// the prop values are in string format, so we have to convert that one into boolean
 		if(Boolean.parseBoolean(prop.getProperty("headless").trim()))
 		{
